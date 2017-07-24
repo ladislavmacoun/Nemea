@@ -528,6 +528,7 @@ The code contains comments but here is the list of important operations:
 #### Libtrap
 
 Generated doxygen [documentation](https://rawgit.com/CESNET/Nemea-Framework/master/libtrap/doc/doxygen/html/index.html) for module developers.
+
 Generated doxygen [documentation](https://rawgit.com/CESNET/Nemea-Framework/master/libtrap/doc/devel/html/index.html) for libtrap developers.
 1. [Basic module information](https://github.com/CESNET/Nemea-Framework/blob/master/examples/c/module/example_module.c#L74) - specify name, description and number of input / output interfaces of the module
 2. [Module parameters](https://github.com/CESNET/Nemea-Framework/blob/master/examples/c/module/example_module.c#L87) - define parameters the module accepts as program arguments
